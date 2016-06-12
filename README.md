@@ -53,3 +53,4 @@ This is the documentation for [Pagekit](https://pagekit.com), a modular open sou
   3. [Permissions](troubleshooting/permissions.md)
   4. [Not Found](troubleshooting/not-found.md)
   5. [Server Error](troubleshooting/server-error.md)
+  6. 1212
